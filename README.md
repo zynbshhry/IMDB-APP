@@ -24,7 +24,7 @@ A React-based movie application inspired by IMDB. It allows users to:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/IMDB-App.git
+git clone https://github.com/zynbshhry/IMDB-App.git
 cd IMDB-App
 npm install
 npm start
